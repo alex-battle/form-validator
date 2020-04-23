@@ -2,6 +2,8 @@
 
 Client side form validation 
 
+Demo-link: http://alex-form-validation.surge.sh/
+
 First create with if statements with some validation and then refactor it into cleaner code.
 
 (DRY) 
